@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="abai-badge.svg" alt="AbAI Badge" width="320">
+  <img src="https://github.com/AbAI-Vybz/AbAI-spec_AbAI-standard/blob/main/assets/images/download.png" alt="AbAI Badge" width="320">
 
   # AbAI & AbAI-ed Open Standard
 
